@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c2a04421-16fc-4577-a7a1-7f89a3aa0a42" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="corporate-blue" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/../../.." />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1V74sTijYs8xdC2eZILIcpz3Q9g" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="sortByType" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\laragon\www\corporate-blue\wp-content\themes\corporate-blue\templates" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\laragon\www\corporate-blue\wp-content\themes\corporate-blue" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+    <option name="showServicesTree" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c2a04421-16fc-4577-a7a1-7f89a3aa0a42" name="Default Changelist" comment="" />
+      <created>1576591005603</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576591005603</updated>
+      <workItem from="1576591006935" duration="17137000" />
+      <workItem from="1576694486409" duration="1286000" />
+      <workItem from="1576835669748" duration="3662000" />
+      <workItem from="1576842530380" duration="2058000" />
+      <workItem from="1576910123938" duration="48000" />
+      <workItem from="1576927271722" duration="57000" />
+      <workItem from="1576927360750" duration="962000" />
+      <workItem from="1576928920773" duration="600000" />
+      <workItem from="1577112057303" duration="1997000" />
+      <workItem from="1577114324385" duration="899000" />
+      <workItem from="1577123787690" duration="194000" />
+      <workItem from="1577123990576" duration="6942000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="722" y="389" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1576608486716">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="722" y="389" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1160@0.0.1920.1160" timestamp="1576608486716" />
+    <state x="719" y="421" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1577123980121">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="719" y="421" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1577123980121" />
+    <state x="740" y="336" key="FileChooserDialogImpl" timestamp="1577123974162">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="740" y="336" key="FileChooserDialogImpl/0.0.1920.1160@0.0.1920.1160" timestamp="1577123974162" />
+    <state x="795" y="510" key="NewPhpFileDialog" timestamp="1576610659360">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="795" y="510" key="NewPhpFileDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1576610659360" />
+    <state x="463" y="224" width="1140" height="711" key="SettingsEditor" timestamp="1577130395785">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="463" y="224" width="1140" height="711" key="SettingsEditor/0.0.1920.1160@0.0.1920.1160" timestamp="1577130395785" />
+    <state x="667" y="221" width="585" height="717" key="find.popup" timestamp="1576597034011">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="667" y="221" width="585" height="717" key="find.popup/0.0.1920.1160@0.0.1920.1160" timestamp="1576597034011" />
+    <state x="623" y="255" width="672" height="678" key="search.everywhere.popup" timestamp="1576844532552">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="623" y="255" width="672" height="678" key="search.everywhere.popup/0.0.1920.1160@0.0.1920.1160" timestamp="1576844532552" />
+  </component>
+</project>

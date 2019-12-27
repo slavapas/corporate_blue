@@ -26,7 +26,8 @@ if ( $query->have_posts() ): while ( $query->have_posts() ):$query->the_post();
             </li>
         </div>
         <div class="col-md-18">
-			<?php the_content(); ?>
+			<?php the_excerpt(); ?>
+            <span class="read-more"><a href="<?php the_permalink(); ?>">Read More</a></span>
         </div>
     </div>
 <?php endwhile;

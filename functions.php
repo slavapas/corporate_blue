@@ -51,3 +51,9 @@ register_sidebar(
 	'before_title' => '<h2 class="rounded">',
 	'after_title' => '</h2>',
 ) );
+
+// remove  […] from Read More
+function new_excerpt_more( $more ) {
+	return '...';
+}
+add_filter('excerpt_more', 'new_excerpt_more');

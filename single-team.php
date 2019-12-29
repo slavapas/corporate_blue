@@ -26,7 +26,6 @@ if ( get_field( 'duration' ) ) {
 // check if there is such field
 if ( get_field( 'movies' ) ) {
 	$movies = get_field( 'movies' );
-	echo $movies;
 }
 ?>
     <!--    //***********************-->
@@ -34,7 +33,7 @@ if ( get_field( 'movies' ) ) {
     <!--    //************************-->
 
     <section>
-
+	    <?php global $wp_query; ?>
         <p>
 			<?php if ( have_posts() ): while ( have_posts() ):
 			the_post(); ?>

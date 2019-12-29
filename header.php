@@ -18,6 +18,7 @@
 <body <?php body_class(); ?>>
 <div class="wrapper container">
     <header>
+        
         <a class="logo" href="/"><img src="<?php bloginfo('template_url'); ?>/images/logo.png" alt="Whitesquare logo"></a>
 	    <?php get_search_form(); ?>
         <!--        <form name="search" action="#" method="get" class="form-inline form-search pull-right">-->
